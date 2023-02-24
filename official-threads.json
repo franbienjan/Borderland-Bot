@@ -1,0 +1,38 @@
+{
+  "lab" : {
+    "id" : 1065231788580012102,
+    "name" : "🦾lab-bot-ratory",
+    "description" : "Admin channel for bot testing."
+  },
+  "leg1-jesters" : {
+    "id" : 1074327301694689300,
+    "name" : "🃏leg01-jesters",
+    "description" : "Bot for Leg 01 Jesters Pitstop Task"
+  },
+  "leg2-airport" : {
+    "id" : 1074653108162011158,
+    "name" : "🛩leg2-airport",
+    "description" : "Airport for booking task",
+    "role" : 1074653254010552350
+  },
+  "leg9-pyramid" : {
+    "id" : 1071355890835398676,
+    "role" : 1076682645653684314
+  },
+  "leg9-pyramid2" : {
+    "id" : 1071360590074888242,
+    "role" : 1076682745213894676
+  },
+  "leg9-pyramid3" : {
+    "id" : 1071371164804464671,
+    "role" : 1076682769096249405
+  },
+  "leg9-pyramid4" : {
+    "id" : 1071398434290008104,
+    "role" : 1076682789237305425
+  },
+  "leg9-pyramid5" : {
+    "id" : 1071429881788895342,
+    "role" : 1076682806782066881
+  }
+}

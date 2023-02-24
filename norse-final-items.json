@@ -1,0 +1,117 @@
+{
+  "CUTLASS" : {
+    "description" : ":dagger: Cutlass",
+    "multiple" : 0,
+    "image" : ""
+  },
+  "HARP" : {
+    "description" : "Harp",
+    "multiple" : 0,
+    "image" : ""
+  },
+  "SERPENT_BLOOD" : {
+    "description" : ":drop_of_blood: Serpent\\'s Blood",
+    "multiple" : 0,
+    "image" : ""
+  },
+  "LUMINOUS_PENDANT" : {
+    "description" : "Luminous Pendant",
+    "multiple" : 0,
+    "image" : ""
+  },
+  "HAMMER" : {
+    "description" : ":hammer: Hammer",
+    "multiple" : 0,
+    "image" : ""
+  },
+  "MJOLLNIR" : {
+    "description" : ":zap::hammer: Mjollnir",
+    "multiple" : 0,
+    "image" : ""
+  },
+  "SPEAR_OF_GUNGNIR" : {
+    "description" : "Spear of Gungnir",
+    "multiple" : 0,
+    "image" : ""
+  },
+  "ELMWOOD" : {
+    "description" : ":wood: Elmwood",
+    "multiple" : 0,
+    "image" : ""
+  },
+  "SKIDBLADNIR" : {
+    "description" : "Skidbladnir",
+    "multiple" : 0,
+    "image" : ""
+  },
+  "SAIL" : {
+    "description" : "Sail",
+    "multiple" : 0,
+    "image" : ""
+  },
+  "SCREW" : {
+    "description" : "Screw",
+    "multiple" : 0,
+    "image" : ""
+  },
+  "SCISSORS" : {
+    "description" : "Scissors",
+    "multiple" : 0,
+    "image" : ""
+  },
+  "PLATINUM_INGOT" : {
+    "description" : "Platinum Ingot",
+    "multiple" : 1,
+    "image" : ""
+  },
+  "GOLD_INGOT" : {
+    "description" : "Gold Ingot",
+    "multiple" : 1,
+    "image" : ""
+  },
+  "SILVER_INGOT" : {
+    "description" : "Silver Ingot",
+    "multiple" : 1,
+    "image" : ""
+  },
+  "BRONZE_INGOT" : {
+    "description" : "Bronze Ingot",
+    "multiple" : 1,
+    "image" : ""
+  },
+  "REDWOOD" : {
+    "description" : "Redwood",
+    "multiple" : 0,
+    "image" : ""
+  },
+  "BLACK_OAK_STAFF" : {
+    "description" : "Black Oak Staff",
+    "multiple" : 0,
+    "image" : ""
+  },
+  "STONE_HATCHET" : {
+    "description" : "Stone Hatchet",
+    "multiple" : 0,
+    "image" : ""
+  },
+  "OSMIUM_DAGGER" : {
+    "description" : "Osmium Dagger",
+    "multiple" : 0,
+    "image" : ""
+  },
+  "FURY_BLADE" : {
+    "description" : "Fury Blade",
+    "multiple" : 0,
+    "image" : ""
+  },
+  "CHARMED_SCYTHE" : {
+    "description" : "Charmed Scythe",
+    "multiple" : 0,
+    "image" : ""
+  },
+  "FIRE_AXE" : {
+    "description" : "Fire Axe",
+    "multiple" : 0,
+    "image" : ""
+  }
+}

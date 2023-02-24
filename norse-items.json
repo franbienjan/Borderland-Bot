@@ -1,0 +1,37 @@
+{
+  "cutlass" : {
+    "type" : "range",
+    "value" : [-20, 0],
+    "description" : ":dagger: Cutlass"
+  },
+  "staff" : {
+    "type" : "set",
+    "value" : [-8, -17, -26, -35],
+    "description" : "Black Oak Staff"
+  },
+  "hatchet" : {
+    "type" : "range",
+    "value" : [-40, -12],
+    "description" : "Stone Hatchet"
+  },
+  "dagger" : {
+    "type" : "set",
+    "value" : [0, 0, -20, -20, -40, -60, -80],
+    "description" : "Osmium Dagger"
+  },
+  "blade" : {
+    "type" : "range",
+    "value" : [-75, -20],
+    "description" : "Fury Blade"
+  },
+  "scythe" : {
+    "type" : "set",
+    "value" : ["50K", 10, -15, -25, -45],
+    "description" : "Charmed Scythe"
+  },
+  "axe" : {
+    "type" : "set",
+    "value" : [0, 0, 0, 0, -50],
+    "description" : "Fire Axe"
+  }
+}

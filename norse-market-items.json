@@ -1,0 +1,99 @@
+{
+  "SAIL" : {
+    "keyword" : "sail",
+    "description" : "Sail",
+    "appearanceRate" : 0.75,
+    "price" : [200, 350, 500]
+  },
+  "SCREW" : {
+    "keyword" : "screw",
+    "description" : "Screw",
+    "appearanceRate" : 0.75,
+    "price" : [50, 100, 150]
+  },
+  "CRYSTAL_MIDGARD" : {
+    "keyword" : "crystal",
+    "description" : "Crystal of Midgard",
+    "appearanceRate" : 0.50,
+    "price" : [750, 1250, 1750, 2250]
+  },
+  "SCISSORS" : {
+    "keyword" : "scissors",
+    "description" : "Scissors",
+    "appearanceRate" : 0.35,
+    "price" : [300, 300]
+  },
+  "CUTLASS" : {
+    "keyword" : "cutlass",
+    "description" : "Cutlass",
+    "appearanceRate" : 0.35,
+    "price" : [500, 500]
+  },
+  "PLATINUM_INGOT" : {
+    "keyword" : "platinum",
+    "description" : "Platinum Ingot",
+    "appearanceRate" : 0.20,
+    "price" : [400, 600, 800]
+  },
+  "GOLD_INGOT" : {
+    "keyword" : "gold",
+    "description" : "Gold Ingot",
+    "appearanceRate" : 0.25,
+    "price" : [150, 300, 450]
+  },
+  "SILVER_INGOT" : {
+    "keyword" : "silver",
+    "description" : "Silver Ingot",
+    "appearanceRate" : 0.50,
+    "price" : [125, 225, 325]
+  },
+  "BRONZE_INGOT" : {
+    "keyword" : "bronze",
+    "description" : "Bronze Ingot",
+    "appearanceRate" : 0.75,
+    "price" : [50, 100, 150, 200, 250]
+  },
+  "REDWOOD" : {
+    "keyword" : "redwood",
+    "description" : "Redwood",
+    "appearanceRate" : 0.15,
+    "price" : [750, 750]
+  },
+  "BLACK_OAK_STAFF" : {
+    "keyword" : "staff",
+    "description" : "Black Oak Staff",
+    "appearanceRate" : 0.60,
+    "price" : [100, 200, 300]
+  },
+  "STONE_HATCHET" : {
+    "keyword" : "hatchet",
+    "description" : "Stone Hatchet",
+    "appearanceRate" : 0.50,
+    "price" : [150, 275, 400]
+  },
+  "OSMIUM_DAGGER" : {
+    "keyword" : "dagger",
+    "description" : "Osmium Dagger",
+    "appearanceRate" : 0.35,
+    "price" : [250, 500, 750]
+  },
+  "FURY_BLADE" : {
+    "keyword" : "blade",
+    "description" : "Fury Blade",
+    "appearanceRate" : 0.25,
+    "price" : [400, 700, 1000]
+  },
+  "CHARMED_SCYTHE" : {
+    "keyword" : "scythe",
+    "description" : "Charmed Scythe",
+    "appearanceRate" : 0.25,
+    "price" : [450, 650, 850, 1050]
+  },
+  "FIRE_AXE" : {
+    "keyword" : "axe",
+    "description" : "Fire Axe",
+    "appearanceRate" : 0.20,
+    "price" : [450, 650, 850, 1050]
+  }
+  
+}

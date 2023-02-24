@@ -1,0 +1,86 @@
+{
+  "ASGARD" : {
+    "id" : 1074688043832848446,
+    "name" : "Asgard",
+    "description" : "Channel for Asgard land.",
+    "roleId" : 1076707965526081559
+  },
+  "MIDGARD" : {
+    "id" : 1074995312642502688,
+    "name" : "Midgard",
+    "description" : "Channel for Midgard land.",
+    "roleId" : 1076708041472352256
+  },
+  "MIDGARD-MARKET" : {
+    "id" : 1076053510103244850,
+    "name" : "Midgard Market",
+    "description" : "Channel for Midgard Market.",
+    "roleId" : 1076708075400081418
+  },
+  "JOTUNHEIM" : {
+    "id" : 1074995667837145208,
+    "name" : "Midgard",
+    "description" : "Channel for Midgard land.",
+    "roleId" : 1076708150041915422
+  },
+  "WOODLANDS" : {
+    "id" : 1076073504191041586,
+    "name" : "Woodlands",
+    "description" : "Channel for Woodlands land.",
+    "roleId" : 1076708188549828638
+  },
+  "MUSPELHEIM" : {
+    "id" : 1074995845142958090,
+    "name" : "Muspelheim",
+    "description" : "Channel for Muspelheim land.",
+    "roleId" : 1076708220673982595
+  },
+  "ALFHEIM" : {
+    "id" : 1074996092158083092,
+    "name" : "Alfheim",
+    "description" : "Channel for Alfheim land.",
+    "roleId" : 1076708280887414844
+  },
+  "VANAHEIM" : {
+    "id" : 1074996229915803748,
+    "name" : "Vanaheim",
+    "description" : "Channel for Vanaheim land.",
+    "roleId" : 1076708318782967808
+  },
+  "LAVENDER-GARDEN" : {
+    "id" : 1076171314169122826,
+    "name" : "Lavender Garden",
+    "description" : "Channel for Lavender Garden.",
+    "roleId" : 1076708387049459724
+  },
+  "BEJEWELED-HALL" : {
+    "id" : 1076184800966217738,
+    "name" : "Bejeweled Hall",
+    "description" : "Channel for Bejeweled Hall.",
+    "roleId" : 1076708440015122463
+  },
+  "NIDAVELLIR" : {
+    "id" : 1074996506198810705,
+    "name" : "Nidavellir",
+    "description" : "Channel for Nidavellir land.",
+    "roleId" : 1076708479651283046
+  },
+  "CAVERN-COASTER" : {
+    "id" : 1076198243312091137,
+    "name" : "Cavern Coaster",
+    "description" : "Channel for Cavern Coaster land.",
+    "roleId" : 1076708515973963786
+  },
+  "NIFLHEIM" : {
+    "id" : 1074997056420184124,
+    "name" : "Niflheim",
+    "description" : "Channel for Niflheim land.",
+    "roleId" : 1076708563386368061
+  },
+  "HEL" : {
+    "id" : 1074997312788648018,
+    "name" : "Hel",
+    "description" : "Channel for Hel land.",
+    "roleId" : 1076708618923159572
+  }
+}

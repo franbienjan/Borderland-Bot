@@ -1,0 +1,102 @@
+{
+  "1" : {
+    "niue" : {
+      "coordinates" : "https://i.ibb.co/BKjBDGN/coor-was.png",
+      "statement" : "https://i.ibb.co/47qBSd5/island-niue-1.png"
+    },
+    "frenchpolynesia" : {
+      "coordinates" : "https://i.ibb.co/tHNBJMQ/coor-hsm.png",
+      "statement" : "https://i.ibb.co/sQRwxRS/island-frenchpolynesia-1.png"
+    },
+    "tuvalu" : {
+      "coordinates" : "https://i.ibb.co/vc7sP32/coor-xfs.png",
+      "statement" : "https://i.ibb.co/dKkbhPQ/island-tuvalu-1.png"
+    },
+    "tokelau" : {
+      "coordinates" : "https://i.ibb.co/yFmqRvV/coor-kam.png",
+      "statement" : "https://i.ibb.co/XkXJ50g/island-tokelau-1.png"
+    },
+    "vanuatu" : {
+      "coordinates" : "https://i.ibb.co/KD8HQQJ/coor-nqp.png",
+      "statement" : "https://i.ibb.co/VMhwp7D/island-vanuatu-1.png"
+    },
+    "fiji" : {
+      "coordinates" : "https://i.ibb.co/rG6WrDq/coor-ayt.png",
+      "statement" : "https://i.ibb.co/ZfcLz5P/island-fiji-1.png"
+    },
+    "cookislands" : {
+      "coordinates" : "https://i.ibb.co/FWtNLbP/coor-vyn.png",
+      "statement" : "https://i.ibb.co/SftYcyz/island-cookislands-1.png"
+    },
+    "pitcairnislands" : {
+      "coordinates" : "https://i.ibb.co/bNBzn5c/coor-thr.png",
+      "statement" : "https://i.ibb.co/tm1hQcW/island-pitcairn-1.png"
+    },
+    "kiribati" : {
+      "coordinates" : "https://i.ibb.co/mD9ckz1/coor-sne.png",
+      "statement" : "https://i.ibb.co/NCCm609/island-kiribati-1.png"
+    },
+    "samoa" : {
+      "coordinates" : "https://i.ibb.co/93F9jRw/coor-evu.png",
+      "statement" : "https://i.ibb.co/tJfP8VH/island-samoa-1.png"
+    },
+    "tonga" : {
+      "coordinates" : "https://i.ibb.co/yQhvc5C/coor-jud.png",
+      "statement" : "https://i.ibb.co/Jns5xd2/island-tonga-1.png"
+    },
+    "wallisandfutuna" : {
+      "coordinates" : "https://i.ibb.co/7n9rHTH/coor-bbm.png",
+      "statement" : "https://i.ibb.co/vk2G8v8/island-wallisfutuna-1.png"
+    }
+  },
+  "2" : {
+    "niue" : {
+      "coordinates" : "https://i.ibb.co/BKjBDGN/coor-was.png",
+      "statement" : "https://i.ibb.co/LRrh2W1/island-niue-2.png"
+    },
+    "frenchpolynesia" : {
+      "coordinates" : "https://i.ibb.co/yQhvc5C/coor-jud.png",
+      "statement" : "https://i.ibb.co/cQYBg6d/island-frenchpolynesia-2.png"
+    },
+    "tuvalu" : {
+      "coordinates" : "https://i.ibb.co/7n9rHTH/coor-mbb.png",
+      "statement" : "https://i.ibb.co/vz89g9b/island-tuvalu-2.png"
+    },
+    "tokelau" : {
+      "coordinates" : "https://i.ibb.co/yFmqRvV/coor-kam.png",
+      "statement" : "https://i.ibb.co/Cbzk1bq/island-tokelau-2.png"
+    },
+    "vanuatu" : {
+      "coordinates" : "https://i.ibb.co/KD8HQQJ/coor-nqp.png",
+      "statement" : "https://i.ibb.co/RcG0Bb8/island-vanuatu-2.png"
+    },
+    "fiji" : {
+      "coordinates" : "https://i.ibb.co/rG6WrDq/coor-ayt.png",
+      "statement" : "https://i.ibb.co/LkWNgKD/island-fiji-2.png"
+    },
+    "cookislands" : {
+      "coordinates" : "https://i.ibb.co/FWtNLbP/coor-vyn.png",
+      "statement" : "https://i.ibb.co/SPM0MFz/island-cookislands-2.png"
+    },
+    "pitcairnislands" : {
+      "coordinates" : "https://i.ibb.co/bNBzn5c/coor-thr.png",
+      "statement" : "https://i.ibb.co/pXR0B89/island-pitcairn-2.png"
+    },
+    "kiribati" : {
+      "coordinates" : "https://i.ibb.co/mD9ckz1/coor-sne.png",
+      "statement" : "https://i.ibb.co/gvPrDXN/island-kiribati-2.png"
+    },
+    "samoa" : {
+      "coordinates" : "https://i.ibb.co/93F9jRw/coor-evu.png",
+      "statement" : "https://i.ibb.co/WG8276k/island-samoa-2.png"
+    },
+    "tonga" : {
+      "coordinates" : "https://i.ibb.co/cLKC1Fn/coor-msh.png",
+      "statement" : "https://i.ibb.co/bHPSyqC/island-tonga-2.png"
+    },
+    "wallisandfutuna" : {
+      "coordinates" : "https://i.ibb.co/vc7sP32/coor-xfs.png",
+      "statement" : "https://i.ibb.co/HPddrM2/island-wallisfutuna-2.png"
+    }
+  }
+}

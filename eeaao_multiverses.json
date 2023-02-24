@@ -1,0 +1,217 @@
+{
+  "psy-test" : { 
+    "keyword" : "shades",
+    "image" : "https://i.imgur.com/hzg9ADE.png",
+    "variant" : "Ellis Biri"
+  },
+  "techie-amnesia" : { 
+	"image" : "https://i.ibb.co/p2CJjfb/0505-A-RI-Jett-Pangan.png", 
+	"variant" : "Jett Pangan", 
+	"keyword" : "salamat"
+  },
+"techie-stephanie" : { 
+	"image" : "https://i.ibb.co/PrmdkPY/0505-B-RI-Sweet-Lapus.png", 
+	"variant" : "Sweet Lapus", 
+	"keyword" : "dontlie"
+},
+"angie-groceryclerk" : { 
+	"image" : "https://i.ibb.co/MNrVqg4/0505-C-RI-Genie-Chen.png", 
+	"variant" : "Genie Chen", 
+	"keyword" : "ua"
+},
+"angie-spanish" : { 
+	"image" : "https://i.ibb.co/5h7CWZh/0505-D-RI-Ken-Jeong.png", 
+	"variant" : "Ken Jeong", 
+	"keyword" : "hangover"
+},
+"onee-suga" : { 
+	"image" : "https://i.ibb.co/D9G3BwX/0505-E-RI-Psy.png", 
+	"variant" : "Psy", 
+	"keyword" : "gangnam"
+},
+"onee-tomlaidlaw" : { 
+	"image" : "https://i.ibb.co/gm7D7CV/0505-F-RI-Vince-Moua.png", 
+	"variant" : "Vince Moua", 
+	"keyword" : "lairo"
+},
+"jettpangan-awalktoremember" : { 
+	"image" : "https://i.ibb.co/YXjq0bC/0506-A-RI-Ellis-Iyak.png", 
+	"variant" : "Ellis Iyak", 
+	"keyword" : "ben"
+},
+"jettpangan-dangcruz" : { 
+	"image" : "https://i.ibb.co/5F7ftKZ/0506-B-RI-Ellis-Katulong.png", 
+	"variant" : "Ellis Katulong", 
+	"keyword" : "lyrsa"
+},
+"sweetlapus-seal" : { 
+	"image" : "https://i.ibb.co/XFKYzRN/0506-C-RI-Ellis-Model.png", 
+	"variant" : "Ellis Model", 
+	"keyword" : "pose"
+},
+"sweetlapus-leeminho" : { 
+	"image" : "https://i.ibb.co/QrYztFZ/0506-D-RI-Ellis-Oppa.png", 
+	"variant" : "Ellis Oppa", 
+	"keyword" : "sarang"
+},
+"geniechen-wilson" : { 
+	"image" : "https://i.ibb.co/DWJtpf9/0506-E-RI-Ellis-Castaway.png", 
+	"variant" : "Ellis Castaway", 
+	"keyword" : "buff"
+},
+"geniechen-jimmykimmel" : { 
+	"image" : "https://i.ibb.co/FYPf0kV/0506-F-RI-Ellis-Host.png", 
+	"variant" : "Ellis Host", 
+	"keyword" : "emcee"
+},
+"kenjeong-aljarreau" : { 
+	"image" : "https://i.ibb.co/YcqnskM/0506-G-RI-Ellis-Singer.png", 
+	"variant" : "Ellis Singer", 
+	"keyword" : "kelly"
+},
+"kenjeong-juanitopelaez" : {
+	 "image" : "https://i.ibb.co/p3gwTq6/0506-H-RI-Padre-Salvi.png", 
+	 "variant" : "Ellis Padre Salvi", 
+	 "keyword" : "juancho"
+},
+"psy-tablas" : { 
+	"image" : "https://i.ibb.co/NjkjP3d/0506-I-RI-Ellis-Romblonpng.png", 
+	"variant" : "Ellis Romblon", 
+	"keyword" : "sunset"
+},
+"psy-northernsamar" : { 
+    "keyword" : "rock",
+    "image" : "https://i.ibb.co/wp84Xmw/0506-J-RI-Ellis-Biri.png",
+    "variant" : "Ellis Biri"
+  },
+"vincemoua-tico" : { 
+	"image" : "https://i.ibb.co/ts2PsH8/0506-K-RI-Ellis-Dora.png", 
+	"variant" : "Ellis Dora", 
+	"keyword" : "swiper"
+},
+"vincemoua-shenzhen" : { 
+	"image" : "https://i.ibb.co/SNhxXTn/0506-L-RI-Ellis-Chinese.png", 
+	"variant" : "Ellis Chinese", 
+	"keyword" : "feishang"
+},
+"iyak-newportworldresorts" : { 
+	"image" : "https://i.ibb.co/B2DvpT3/0507-A-RI-Resort-Owner.png", 
+	"variant" : "Ellis Resort Owner",
+	"keyword" : "shades"
+},
+"iyak-force" : { 
+	"image" : "https://i.ibb.co/vcDqkYF/0507-B-RI-Ellis-Tulak-Pool.png", 
+	"variant" : "Ellis Tulak Pool", 
+	"keyword" : "rafael"
+},
+"katulong-outsourcing" : { 
+	"image" : "https://i.ibb.co/JnPXz0D/0507-C-RI-Ellis-Call-Center.png", 
+	"variant" : "Ellis Call Center", 
+	"keyword" : "hello"
+},
+"katulong-luthervandross" : { 
+	"image" : "https://i.ibb.co/NTYJkmq/0507-D-RI-Ellis-Sayaw-Tatay.png", 
+	"variant" : "Ellis Sayaw Tatay", 
+	"keyword" : "belly"
+},
+"model-pampanga" : { 
+	"image" : "https://i.ibb.co/rdWV5bx/0507-E-RI-Ellis-Bata-Reyes.png", 
+	"variant" : "Ellis Bata Reyes", 
+	"keyword" : "stripes"
+},
+"model-namethattune" : { 
+	"image" : "https://i.ibb.co/C7Cx37H/0507-F-RI-Ellis-Award.png", 
+	"variant" : "Ellis Award", 
+	"keyword" : "peemo"
+},
+"oppa-tarforallseasons" : { 
+	"image" : "https://i.ibb.co/Pc9q0WF/0507-G-RI-Ellis-Putian.png", 
+	"variant" : "Ellis Puti-an", 
+	"keyword" : "elfie"
+},
+"oppa-december" : { 
+	"image" : "https://i.ibb.co/qNwYZv3/0507-H-RI-Hi-Mama-Mary.png", 
+	"variant" : "Ellis Mama Mary", 
+	"keyword" : "blessed"
+},
+"castaway-tennessee" : { 
+	"image" : "https://i.ibb.co/W3GPn2D/0507-I-RI-Ellis-Drunk.png", 
+	"variant" : "Ellis Drunk", 
+	"keyword" : "notdrunk"
+},
+"castaway-abimarquez" : { 
+	"image" : "https://i.ibb.co/Tgyr1wJ/0507-J-RI-Ellis-Lumpia-Hands.png", 
+	"variant" : "Ellis Lumpia Hands", 
+	"keyword" : "bilina"
+},
+"host-deadpool" : {
+	"image" : "https://i.ibb.co/tM0Yw3f/0507-K-RI-Ellis-Negasonic-Warhead.png", 
+	"variant" : "Ellis Negasonic Warhead", 
+	"keyword" : "finalboss"
+},
+"host-bobsoler" : {
+	"image" : "https://i.ibb.co/wLFr30d/0507-L-RI-Ellis-Captain-Barbell.png", 
+	"variant" : "Ellis Captain Barbell", 
+	"keyword" : "strong"
+},
+"singer-simuliu" : {
+	"image" : "https://i.ibb.co/JHM8PCC/0507-M-RI-Ellis-Shangchi.png", 
+	"variant" : "Ellis Shangchi", 
+	"keyword" : "shanghai"
+},
+"singer-vitaminc" : {
+	"image" : "https://i.ibb.co/M1PxCG5/0507-N-RI-Ellis-Grad.png", 
+	"variant" : "Ellis Graduation", 
+	"keyword" : "congrats"
+},
+"padresalvi-tashkent" : {
+	"image" : "https://i.ibb.co/xYxLRjq/0507-O-RI-Ellis-Uzbekistan.png", 
+	"variant" : "Ellis Uzbekistan", 
+	"keyword" : "turban"
+},
+"padresalvi-gender" : {
+	"image" : "https://i.ibb.co/4pnWn9N/0507-P-RI-Ellis-Straight.png", 
+	"variant" : "Ellis Straight", 
+	"keyword" : "really"
+},
+"romblon-rubble" : {
+	"image" : "https://i.ibb.co/SVMmMmP/0507-Q-RI-Ellis-Primitive.png", 
+	"variant" : "Ellis Primitive", 
+	"keyword" : "tabon"
+},
+"romblon-messengerrna" : {
+	"image" : "https://i.ibb.co/YfwSmM2/0507-R-RI-Ellis-Bakuna.png", 
+	"variant" : "Ellis Bakuna", 
+	"keyword" : "vaxxed"
+},
+"biri-pert" : {
+	"image" : "https://i.ibb.co/x8M68Xf/0507-S-RI-Ellis-Rejoice.png", 
+	"variant" : "Ellis Rejoice", 
+	"keyword" : "jaja"
+},
+"biri-facethesun" : {
+	"image" : "https://i.ibb.co/vJZTYvm/0507-T-RI-Ellis-Shadow.png", 
+	"variant" : "Ellis Shadow", 
+	"keyword" : "dark"
+},
+"dora-hyde" : {
+	"image" : "https://i.ibb.co/PQPWYR7/0507-U-RI-Ellis-Liwanag.png", 
+	"variant" : "Ellis Liwanag", 
+	"keyword" : "ayala"
+},
+"dora-alopecia" : {
+	"image" : "https://i.ibb.co/2SfVy2p/0507-V-RI-Ellis-Kalbo.png", 
+	"variant" : "Ellis Kalbo", 
+	"keyword" : "prison"
+},
+"chinese-renaissance" : {
+	"image" : "https://i.ibb.co/Vg5gt7m/0507-W-RI-Ellis-Beyonce.png", 
+	"variant" : "Ellis Beyonce", 
+	"keyword" : "blueivy"
+},
+"chinese-listen" : {
+	"image" : "https://i.ibb.co/N6T1p2k/0507-X-RI-Ellis-Regine.png", 
+	"variant" : "Ellis Regine", 
+	"keyword" : "villain"
+}
+}
