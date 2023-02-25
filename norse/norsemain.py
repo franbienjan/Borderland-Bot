@@ -1986,7 +1986,7 @@ def build_player_data(playerData):
 def pitstop_checkin(playerData):
 
   if (len(playerData["crystals"]) == 9 and playerData["trigger-ragnarok"] == True and "SERPENT_BLOOD" in playerData["items"]):
-    reply = "Congratulations! Screenshot this message and send to your FB GC."
+    reply = "https://i.ibb.co/ZgPYJ9v/pitstop-winning.png"
   else:
     reply = "I don't know how you got here, but please finish leg."
 

@@ -12,6 +12,8 @@ replit = "^3.2.4"
 discord = "^2.1.0"
 django-user = "^0.2.1"
 pytz = "^2022.7.1"
+pil-compat = "^1.0.0"
+Pillow = "^9.4.0"
 
 [tool.poetry.dev-dependencies]
 

@@ -15,6 +15,10 @@ from discord.ext import tasks
 from datetime import datetime
 from datetime import timedelta
 from pytz import timezone
+import Image
+from PIL import Image
+from io import BytesIO
+from urllib.request import urlopen
 
 intents = discord.Intents.default()
 intents.members = True
@@ -22,6 +26,7 @@ intents.message_content = True
 client = discord.Client(intents=intents)
 
 officialRoles = json.load(open('official-roles.json'))
+paramoreTVJson = json.load(open('paramore-tv.json'))
 
 ###############################################
 ##            TAR in Borderland              ##
@@ -51,6 +56,43 @@ async def generateMarket():
 
     await channel.send(embed=embedVar)
 
+def tv_init(name):
+  #with spare index
+  db[name + "-tv"] = [False, False, False, False, False, False, False, False, False, False]
+  return ":tv: You are now ready!"
+
+async def display_tv_screens(data, name):
+
+  output = ""
+  screens = Image.open(urlopen("https://i.ibb.co/PWSjdn6/base-tv.png"))
+  static = Image.open(urlopen("https://i.ibb.co/4Y6VZnP/static.png"))
+
+  recordedChannels = db[name + "-tv"]
+
+  if not recordedChannels[1]:
+    screens.paste(static, (35, 67))
+  if not recordedChannels[2]:
+    screens.paste(static, (345, 67))
+  if not recordedChannels[3]:
+    screens.paste(static, (655, 67))
+  if not recordedChannels[4]:
+    screens.paste(static, (35, 360))
+  if not recordedChannels[5]:
+    screens.paste(static, (345, 360))
+  if not recordedChannels[6]:
+    screens.paste(static, (655, 360))
+  if not recordedChannels[7]:
+    screens.paste(static, (35, 648))
+  if not recordedChannels[8]:
+    screens.paste(static, (345, 648))
+  if not recordedChannels[9]:
+    screens.paste(static, (655, 648))
+
+  with BytesIO() as image_binary:
+                    screens.save(image_binary, 'PNG')
+                    image_binary.seek(0)
+                    await data.send(file=discord.File(fp=image_binary, filename='screens.png'))
+  
 @client.event
 async def on_message(message):
 
@@ -64,7 +106,41 @@ async def on_message(message):
         return
 
     #*************************************************
-    # Leg 07: Norse Mythology
+    # Leg 11: Paramore
+    #*************************************************
+    if content == "$show-tv":
+      await display_tv_screens(channel)
+      return
+
+    if content == "$paramore-thenews":
+      reply = tv_init(authorName)
+      await channel.send(reply)
+      await display_tv_screens(channel, authorName)
+      return
+
+    if content.startswith("$turn-on-"):
+      tvNum = int(content.split("$turn-on-", 1)[1])
+      db[authorName + "-tv"][tvNum] = True
+      await display_tv_screens(channel, authorName)
+      return
+
+    if content.startswith("$turn-off-"):
+      tvNum = int(content.split("$turn-off-", 1)[1])
+      db[authorName + "-tv"][tvNum] = False
+      await display_tv_screens(channel, authorName)
+      return
+
+    if content == "$pull-lever":
+
+      if db[authorName + "-tv"] == [False, True, True, False, True, True, False, False, False, True]:
+        await channel.send("https://i.ibb.co/CPX9ygZ/success-tv.png")
+      else:
+        db[authorName + "-tv"] = [False, False, False, False, False, False, False, False, False, False]
+        await display_tv_screens(channel, authorName)
+      return
+    
+    #*************************************************
+    # Leg 10: Norse Mythology
     #*************************************************
     # Initialize
     if content == "$norse-enter":
@@ -90,8 +166,8 @@ async def on_message(message):
       generateMarket.start()
       return
 
-    if (authorName == 'Friday') and content.startswith("$"):
-    #if db["norse-only"] and content.startswith("$"):
+    #if (authorName == 'Friday') and content.startswith("$"):
+    if db["norse-only"] and content.startswith("$"):
       #Dispatch content to norsemain.py
       await norse.norsemain.norse_main(message)
       return
